@@ -1,1 +1,9 @@
-{"devices":[{"key":"DAI-0000-0000-0000-0000","unlock_premium":true}],"version":1}
+{
+  "devices": [
+    {
+      "key": "DAI-87E0-61BE-8D46-BEAA",
+      "unlock_premium": true
+    }
+  ],
+  "version": 1
+}
